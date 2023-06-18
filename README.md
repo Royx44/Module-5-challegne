@@ -1,16 +1,16 @@
 # Module-5-challegne
-Description
+# Description
 important events to a daily planner
 SO THAT I can manage my time effectively
 
-Installation
+# Installation
 N/A
 
-Usage
+# Usage
 I add time, day,and date script and a save button so when i refresh the page i stays.
 
-Credits
+# Credits
 N/A
 
-License
+# License
 Please refer to the LICENSE in the repo.
